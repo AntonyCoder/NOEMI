@@ -1,0 +1,1 @@
+https://app.rs.school/course/score?course=js-fe-2021Q1
